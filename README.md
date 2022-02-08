@@ -1,6 +1,9 @@
 ### Hi there, I'm Juan 👋
 
 I'm 20 years old. 
+I’m currently working at a real estate company located in Austin, TX.
+I’m currently learning front-end web development.
+In my free time I enjoy playing the piano, taking photographs, aquascaping, and training dogs. 
 
 
 <!--
